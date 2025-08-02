@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-cors-headers
+drf-yasg
+django-environ
+mysqlclient # For MySQL connectivity
+celery
+rabbitmq # Although rabbitmq itself is a message broker, we'll list it here for completeness, though it's typically installed separately.
